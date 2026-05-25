@@ -45,4 +45,4 @@ A collection of Python programs developed for the System Infrastructure and Arch
 ---
 
 ## License
-This project was produced solely for academic assessment at New Era University.
+This project is intended solely for academic grading at New Era University.
