@@ -42,3 +42,7 @@ A collection of Python programs developed for the System Infrastructure and Arch
    ```bash
    python name_of_file.py
    ```
+---
+
+## License
+This project was produced solely for academic assessment at New Era University.
